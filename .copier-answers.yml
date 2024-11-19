@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+AnswerStrategy: recommended
+Authors: arj@workingdoge.com
+CodeOfConductContact: arj@workingdoge.com
+ConfigIndentation: 2
+JuliaIndentation: 4
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: arj@workingdoge.com
+MarkdownIndentation: 2
+PackageName: AnkiInterface
+PackageOwner: workingdoge
+PackageUUID: d5264e80-492d-5a16-8825-1350a75c0b6d
+_commit: v0.14.1
+_src_path: https://github.com/JuliaBesties/BestieTemplate.jl

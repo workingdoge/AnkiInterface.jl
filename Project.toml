@@ -1,0 +1,7 @@
+name = "AnkiInterface"
+uuid = "d5264e80-492d-5a16-8825-1350a75c0b6d"
+authors = ["arj@workingdoge.com"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"

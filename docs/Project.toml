@@ -1,0 +1,11 @@
+# Don't forget to run
+#
+#     pkg> dev ..
+#
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LiveServer = "16fef848-5104-11e9-1b77-fb7a48bbb589"
+AnkiInterface = "d5264e80-492d-5a16-8825-1350a75c0b6d"
+
+[compat]
+Documenter = "1"
